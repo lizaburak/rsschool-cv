@@ -29,3 +29,13 @@ function century(year) {
   return sentury;
 }
 ```
+
+## Education:
+
+- In 2020 I finished Lyceum №2
+- Then I entered BSU (Mechanics and Mathematics faculty). Now I am a second-year student.
+- I finished RS PreSchool 2021
+
+## English:
+
+Level A2+
