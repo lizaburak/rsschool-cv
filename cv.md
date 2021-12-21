@@ -19,3 +19,13 @@ About a year ago, I didn't know almost anything about Frontend-development. Now 
 - Figma
 - Adobe Photoshop (the basics)
 - Adobe Illustrator (the basics)
+
+## Code:
+
+```
+function century(year) {
+  let sentury = Math.floor(year / 100);
+  if(year % 100 != 0) sentury++;
+  return sentury;
+}
+```
